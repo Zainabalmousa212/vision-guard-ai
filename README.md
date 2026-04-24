@@ -15,19 +15,14 @@
 - **Utilities:** Cvzone
 
 ## 🚀 Installation & Setup
-
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/vision-guard-ai.git](https://github.com/YourUsername/vision-guard-ai.git)
-Navigate to the project directory:
-
-Bash
+   git clone [https://github.com/Zainabalmousa212/vision-guard-ai.git](https://github.com/Zainabalmousa212/vision-guard-ai.git)
+   
+2. **Navigate to the project directory:**
 cd vision-guard-ai
-Install the required dependencies:
 
-Bash
+3. **Install the required dependencies:**
 pip install ultralytics opencv-python cvzone mediapipe
-Run the application:
 
-Bash
+4. **Run the application:**
 python main.py
